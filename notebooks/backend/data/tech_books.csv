@@ -1,0 +1,26 @@
+book_id,title,author,category,level,rating,year,num_reviews
+1,"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",Aurélien Géron,Machine Learning,Intermediate,4.6,2022,1250
+2,Deep Learning,"Ian Goodfellow, Yoshua Bengio, Aaron Courville",Deep Learning,Advanced,4.5,2016,890
+3,Python Machine Learning,Sebastian Raschka,Machine Learning,Intermediate,4.4,2019,750
+4,Reinforcement Learning: An Introduction,"Richard S. Sutton, Andrew G. Barto",Reinforcement Learning,Advanced,4.7,2018,620
+5,Pattern Recognition and Machine Learning,Christopher M. Bishop,Machine Learning,Advanced,4.6,2006,450
+6,Deep Learning with Python,François Chollet,Deep Learning,Beginner,4.5,2021,980
+7,The Hundred-Page Machine Learning Book,Andriy Burkov,Machine Learning,Beginner,4.3,2019,340
+8,Python for Data Analysis,Wes McKinney,Data Science,Beginner,4.4,2022,820
+9,Introduction to Statistical Learning,"Gareth James, Daniela Witten",Machine Learning,Intermediate,4.6,2021,710
+10,Natural Language Processing with Python,"Steven Bird, Ewan Klein",NLP,Intermediate,4.2,2009,380
+11,Computer Vision: Algorithms and Applications,Richard Szeliski,Computer Vision,Advanced,4.5,2022,560
+12,Designing Machine Learning Systems,Chip Huyen,MLOps,Intermediate,4.7,2022,890
+13,Grokking Deep Learning,Andrew Trask,Deep Learning,Beginner,4.4,2019,420
+14,Data Science from Scratch,Joel Grus,Data Science,Beginner,4.3,2019,510
+15,Algorithms,"Robert Sedgewick, Kevin Wayne",Algorithms,Intermediate,4.5,2011,890
+16,Deep Reinforcement Learning Hands-On,Maxim Lapan,Reinforcement Learning,Intermediate,4.4,2020,340
+17,Fluent Python,Luciano Ramalho,Python,Intermediate,4.7,2022,920
+18,Speech and Language Processing,"Dan Jurafsky, James H. Martin",NLP,Advanced,4.6,2023,450
+19,Machine Learning Engineering,Andriy Burkov,MLOps,Intermediate,4.5,2020,380
+20,Probabilistic Machine Learning: An Introduction,Kevin Murphy,Machine Learning,Advanced,4.6,2022,520
+21,Deep Learning for Computer Vision,Rajalingappaa Shanmugamani,Computer Vision,Intermediate,4.3,2018,290
+22,Python Data Science Handbook,Jake VanderPlas,Data Science,Intermediate,4.5,2016,740
+23,Introduction to Algorithms,Thomas H. Cormen,Algorithms,Advanced,4.5,2009,1100
+24,Effective Python,Brett Slatkin,Python,Intermediate,4.5,2019,560
+25,Neural Networks and Deep Learning,Michael Nielsen,Deep Learning,Beginner,4.7,2015,380
